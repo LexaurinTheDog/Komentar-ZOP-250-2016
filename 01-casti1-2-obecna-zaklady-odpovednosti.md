@@ -98,6 +98,11 @@ Hranici mezi přestupkem a trestným činem vymezuje přímo zákonná definice 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 268/2019 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670050) — 21. 6. 2021
+  > „V prvé řadě je nutno zohlednit, že ústavní zásada retroaktivního působení pro pachatele příznivější právní úpravy (čl. 40 odst. 6 Listiny základních práv a svobod, dále jen „Listina“) se plně aplikuje i v režimu správního trestání [též § 2 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich …]"
+
 #### Základní pravidlo — lex tempus regit actum (odst. 1)
 
 Odpovědnost za přestupek se řídí zákonem platným a účinným v době spáchání přestupku (zásada „lex tempus regit actum"). Toto pravidlo chrání pachatele před retroaktivním zpřísněním trestání: jednal podle pravidel platných v době činu; nemůže být za totéž přísněji trestán pro pozdější změnu zákona.
@@ -494,6 +499,13 @@ Před kvalifikací pokusu vždy ověřte, že zvláštní zákon trestnost pokus
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 28/2023 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720878) — 26. 4. 2024
+  > „K tomu, aby se jednalo o pokračující přestupek ve smyslu ustanovení § 7 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich …, musí být všechny podmínky specifikované v uvedeném ustanovení splněny kumulativně. Jednotlivé dílčí útoky musí být vedeny jednotným záměrem, který představuje vůli vést každý dílčí útok proti stejnému chráněnému zájmu, a tento záměr je třeba v řízení dokazovat"
+- *NSS* [10 As 187/2025 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/748604) — 9. 1. 2026
+  > „K tomu, aby se jednalo o pokračující přestupek ve smyslu § 7 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, musí být všechny podmínky specifikované v uvedeném ustanovení splněny kumulativně. Jednotlivé dílčí útoky musí být vedeny jednotným záměrem"
+
 #### Znaky pokračování
 
 Pokračující přestupek je konstruován jako **pluralita dílčích útoků**, které zákon posuzuje jako jediný přestupek. Pro jeho existenci musí být kumulativně splněny čtyři znaky:
@@ -658,6 +670,13 @@ Nejprve z textu skutkové podstaty ověřte, že pluralita útoků je zákonným
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 198/2023 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714923) — 4. 10. 2023
+  > „… důvodem pro zakotvení této úpravy je, že ne každé opomenutí bude dostatečně závažné, aby mohlo být postaveno naroveň konání a založit odpovědnost za přestupek, který má charakter nepravého omisivního deliktu. Proto se stanoví, že opomenutí bude postaveno naroveň jednání pouze tehdy, byla-li osoba ke konání (které opomenula) podle okolností a svých poměrů povinna … Předpokladem aplikace § 10 je, aby pachatel měl zvláštní povinnost konat, kterou porušil, respektive opomenul takovou povinnost konat"
+- *NSS* [22 A 6/2022 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/706797) — 31. 10. 2022
+  > „Přestupek může být spáchán jak aktivním jednáním, tak opomenutím. Jednáním se totiž pro účely přestupkového práva rozumí i opomenutí takového konání, k němuž byl pachatel povinen podle jiného právního předpisu nebo úředního rozhodnutí, v důsledku dobrovolného převzetí povinnosti konat nebo vyplývala-li jeho zvláštní povinnost z jeho předchozího ohrožujícího jednání nebo k němuž byl z jiného důvodu podle okolností a svých poměrů povinen (§ 10 zákona č. 250/2016 Sb. …)"
+
 #### Opomenutí jako forma jednání — garanční teorie
 
 § 10 rozšiřuje legislativní definici „jednání" tak, aby zahrnovala i **opomenutí** (commissio per omissionem). Tím zákon přebírá konstrukci z trestního zákoníku (§ 112 TZ) a precizuje, za jakých podmínek nečinnost zakládá přestupkovou odpovědnost.
@@ -778,6 +797,11 @@ U více osob na místě činu prokazujte společný úmysl a funkční rozdělen
 > *- b) spolupachatelem ten, kdo požadovanou vlastnost, způsobilost nebo postavení má, a stanoví-li tak zákon také ten, kdo požadovanou vlastnost, způsobilost nebo postavení nemá, pokud má požadovanou vlastnost, způsobilost nebo postavení alespoň jeden ze spolupachatelů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 257/2020 - 69](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/702242) — 19. 7. 2022
+  > „Přestupek podle § 34e odst. 2 písm. c), kterého se může dopustit pouze řidič taxislužby, je skutečně přestupkem se zvláštním subjektem (srov. § 12 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, a před jeho účinností obdobně § 114 trestního zákoníku). Vykonával-li stěžovatel přepravu pro Uber bez jakéhokoli formálního oprávnění k taxislužbě, z povahy věci se nemohl dopustit žádného z přestupků podle § 34e odst. 2"
 
 #### Delicta propria — speciální subjekt
 
@@ -980,6 +1004,13 @@ U povinností vázaných na zvláštní postavení osoby s omezenou způsobilost
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [52 A 50/2023 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724996) — 17. 7. 2024
+  > „Dle ustálené soudní praxe v případě správního trestání nepodnikajících fyzických osob je nutné zavinění jako znak subjektivní stránky přestupku, a tudíž nutnou podmínku odpovědnosti za přestupek (srov. § 15 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich), prokázat a odůvodnit. Tíže posouzení, zda je daná osoba odpovědná za přestupek, totiž může spočívat právě na tom, zda aplikující orgán dospěje k závěru, že osoba jednala alespoň z nevědomé nedbalosti"
+- *NSS* [18 A 17/2020 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/413625) — 15. 10. 2020
+  > „… k odpovědnosti fyzické osoby za přestupek se vyžaduje zavinění. Postačí zavinění z nedbalosti, nestanoví-li zákon výslovně, že je třeba úmyslného zavinění (§ 15 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich) … Forma zavinění nemá vliv na posouzení toho, zda-li je žalobce za přestupek odpovědný či nikoliv; může však mít vliv na výši uložené sankce"
+
 #### Zavinění jako podmínka odpovědnosti fyzické osoby (odst. 1)
 
 § 15 odst. 1 zakotví zásadu culpability: fyzická osoba odpovídá za přestupek **pouze při zavinění** — bez zavinění není přestupkové odpovědnosti. Tím se odpovědnost fyzické osoby zásadně liší od odpovědnosti právnické osoby (§ 20 a násl.), která zavinění jako podmínku výslovně nezakotvuje (jde o objektivizovanou odpovědnost s možností exkulpace).
@@ -1048,6 +1079,13 @@ Vždy nejprve zjistěte, zda skutková podstata vyžaduje úmysl (výslovná dol
 > *(4) Kdo při spáchání činu mylně předpokládá skutkovou okolnost, která vylučuje jeho protiprávnost, nejedná úmyslně; tím není dotčena odpovědnost za přestupek spáchaný z nedbalosti.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [59 A 19/2021 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/708304) — 21. 12. 2022
+  > „… kdo při spáchání činu nezná ani nepředpokládá jako možnou skutkovou okolnost, která je znakem přestupku, nejedná úmyslně; tím není dotčena odpovědnost za přestupek spáchaný z nedbalosti. Správní orgány se tedy správně zaměřily na otázku možného zavinění nedbalostního, kdy v úvahu přicházela z povahy věci nedbalost nevědomá (§ 15 odst. 3 písm. b) přestupkového zákona) …"
+- *NSS* [55 A 5/2023 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718485) — 20. 12. 2023
+  > „… jednání ve skutkovém omylu … může být brán v potaz pouze při posuzování odpovědnosti fyzické osoby ve smyslu § 16 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich …. V projednávaném případě se přestupků dopustila obchodní společnost, tedy právnická osoba, jejíž odpovědnost za spáchání přestupku je objektivní"
 
 #### Negativní skutkový omyl — vyloučení úmyslu (odst. 1)
 
@@ -1308,6 +1346,11 @@ Při důvodných pochybnostech o duševním stavu pachatele v době činu zadejt
 > *(7) Odpovědností právnické osoby za přestupek není dotčena odpovědnost za přestupek fyzických osob uvedených v odstavcích 1 a 2 a odpovědností za přestupek těchto fyzických osob není dotčena odpovědnost právnické osoby za přestupek.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [17 A 53/2025 - 72](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746950) — 15. 9. 2025
+  > „Podle § 20 odst. 6 zákona č. 250/2016 Sb. odpovědnost právnické osoby za přestupek není podmíněna zjištěním konkrétní fyzické osoby, která se považuje za osobu, jejíž jednání je přičitatelné právnické osobě. Správní orgán není povinen zjišťovat konkrétní fyzickou osobu …, zejména tehdy, je-li ze zjištěných skutečností zřejmé, že k jednání zakládajícímu odpovědnost právnické osoby za přestupek došlo při činnosti právnické osoby"
 
 #### Přičitatelnost — základní konstrukční princip (odst. 1)
 

@@ -18,6 +18,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [32 A 80/2019 - 44](https://vyhledavac.nssoud.cz/DokumentDetail/Index/672468) — 18. 8. 2021
+  > „Již z čl. 4 odst. 1 Protokolu č. 7 k Úmluvě o ochraně lidských práv a základních svobod vyplývá, že nikdo nemůže být stíhán nebo potrestán v trestním řízení za trestný čin, za který již byl osvobozen nebo odsouzen konečným rozsudkem. Uvedený článek se uplatní i v případě postihu za přestupky, které lze podřadit pod pojem trestní obvinění ve smyslu Úmluvy. Na zákonné úrovni je daná zásada provedena v § 77 odst. 2 zákona č. 250/2016 Sb. … Rozhodující je posouzení totožnosti skutku … Podstatou skutku je přitom dle doktríny právně relevantní jednání pachatele a jím zapříčiněný právně významný následek"
+
 #### Systém překážek — litispendence a res iudicata
 
 Zákonodárce rozlišuje dvě překážky:
@@ -86,6 +91,11 @@ V praxi § 77 vyžaduje, aby správní orgán před zahájením řízení i v je
 > *(4) Má-li být v řízení rozhodováno také o jiném skutku, než pro který bylo oznámeno zahájení řízení, postupuje správní orgán obdobně podle odstavců 2 a 3. Pokud v průběhu řízení správní orgán změní právní kvalifikaci skutku, vyrozumí o tom obviněného.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 52/2025 - 46](https://vyhledavac.nssoud.cz/DokumentDetail/Index/748135)
+  > „Účelem oznámení o zahájení řízení je ve smyslu § 78 zákona č. 250/2016 Sb. vymezení předmětu zahajovaného řízení tak, aby účastník, jehož se řízení týká, mohl řádně uplatňovat svá práva. Účastník řízení tedy musí být seznámen s podstatou obvinění, neboť jedině tak může realizovat právo na svou obhajobu"
 
 #### Officiální zásada — povinnost zahájit
 
@@ -294,6 +304,11 @@ V praxi § 80 znamená, že ústní jednání není pravidlem, ale na žádost o
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [54 A 53/2020 - 35](https://vyhledavac.nssoud.cz/DokumentDetail/Index/705763)
+  > „Protokol o kontrole nenapadený námitkami má bezesporu důkazní význam ve smyslu objektivního podkladu pro rozhodnutí, přičemž podle § 81 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich … může být i jediným podkladem pro vydání rozhodnutí. Výslech povinné osoby nebylo třeba provádět, protože vše podstatné bylo zachyceno v protokole o kontrole"
+
 #### Kontrolní zjištění jako dostatečný důkazní podklad
 
 Toto ustanovení umožňuje, aby výsledky kontroly provedené před zahájením přestupkového řízení sloužily jako **jediný podklad rozhodnutí**. Tím zákonodárce odstranil pochybnosti, zda je správní orgán povinen každé kontrolní zjištění v řízení znovu dokazovat. Podmínkou je, že kontrola proběhla v souladu s právními předpisy (zákonem č. 255/2012 Sb., o kontrole, nebo příslušnými sektorovými předpisy) a obviněný měl možnost se k jejím výsledkům vyjádřit. Pokud obviněný konkrétně zpochybní kontrolní zjištění, správní orgán je povinen se s námitkami vypořádat a v případě potřeby doplnit dokazování.
@@ -352,6 +367,13 @@ V praxi § 81 umožňuje opřít rozhodnutí výlučně o zákonně získaná ko
 > *(5) Výslech svědka, který je osobou mladší 15 let, správní orgán provádí pouze v nezbytných případech; správní orgán při výslechu postupuje zvlášť šetrně a současně tak, aby nebylo nutné výslech znovu opakovat. Výslechu mohou být přítomni zákonný zástupce nebo opatrovník vyslýchané osoby, nebude-li jejich přítomnost na újmu práv vyslýchané osoby. K výslechu správní orgán přibere orgán sociálně-právní ochrany dětí nebo jinou osobu mající zkušenosti s výchovou mládeže, pokud by se zřetelem na předmět výslechu a stupeň duševního vývoje vyslýchané osoby přispěla k správnému vedení výslechu. Svědkovi, který je osobou mladší 15 let, lze klást otázky jen prostřednictvím oprávněné úřední osoby.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [33 A 6/2022 - 26](https://vyhledavac.nssoud.cz/DokumentDetail/Index/703547)
+  > „Důsledkem ústavněprávní úpravy zákazu donucování k sebeobviňování je promítnutí této zásady do většiny právních odvětví a především do práva trestního (přestupkového). V přestupkovém právu se tato zásada projevuje např. v možnosti obviněného nevypovídat (§ 82 odst. 2 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich) nebo odmítnutí výpovědi, pokud by sám sobě nebo osobě blízké způsobil trestní stíhání"
+- *NSS* [56 A 18/2024 - 64](https://vyhledavac.nssoud.cz/DokumentDetail/Index/745839)
+  > „Právo na výslech [je] zakotveno v § 82 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich … a v čl. 6 odst. 3 Úmluvy o ochraně lidských práv a základních svobod, přičemž jej nelze podmiňovat tím, zda takový výslech přinese nové skutečnosti či nikoli"
 
 #### Výslech obviněného — právo, nikoliv povinnost
 
@@ -1065,6 +1087,11 @@ V praxi je příkaz zjednodušeným rozhodnutím ve věci samé; po odporu se ru
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [60 A 10/2022 - 36](https://vyhledavac.nssoud.cz/DokumentDetail/Index/702108)
+  > „Nutnou podmínkou pro rozhodnutí příkazem na místě je souhlas obviněného se zjištěným stavem věci, s právní kvalifikací skutku, s uložením pokuty a její výší a s vydáním příkazového bloku, v souladu s § 91 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich"
+
 #### Příkaz na místě — podstata a podmínky
 
 Příkaz na místě (dříve označovaný jako „blokové řízení" podle dřívějšího zákona č. 200/1990 Sb.) je **neformální, okamžitou reakcí** na přestupek spáchaný na místě. Správní orgán ho může použít, nestačí-li domluva, a musí být splněny tři kumulativní podmínky souhlasu obviněného: souhlas (1) se zjištěným stavem věci, (2) s právní kvalifikací, (3) s uložením pokuty a její výší a (4) s vydáním příkazového bloku. Chybí-li byť jeden ze souhlasů, příkaz na místě nelze vydat.
@@ -1161,6 +1188,11 @@ V praxi je příkaz na místě okamžitou reakcí na přestupek podmíněnou ned
 > *(6) Správní orgán, který vydal příkazový blok v elektronické podobě na pokutu na místě nezaplacenou a který není příslušný k jejímu vymožení, předá příkazový blok a další údaje nezbytné k vymožení pokuty správci daně příslušnému k jejímu vymožení elektronicky ve formátu a struktuře zveřejněné tímto správcem daně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 110/2019 - 60](https://vyhledavac.nssoud.cz/DokumentDetail/Index/698869)
+  > „Příkazový blok (resp. příkaz na místě) se podpisem přestupce stává pravomocným správním rozhodnutím (srov. § 150 odst. 5 správního řádu a § 92 odst. 2 písm. l) zákona č. 250/2016 Sb.) – byť vydaným ve zjednodušené formě – a k jako takovému je třeba k němu přistupovat"
 
 #### Příkazový blok — hmotný nosič příkazu na místě
 
@@ -1283,6 +1315,13 @@ V praxi se příkaz na místě stává pravomocným a vykonatelným podpisem př
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [66 A 6/2020 - 59](https://vyhledavac.nssoud.cz/DokumentDetail/Index/671768)
+  > „Smyslem uvedení místa spáchání skutku ve výroku rozhodnutí – § 93 odst. 1 písm. a) zákona č. 250/2016 Sb. – je především specifikovat skutek tak, aby nebylo možno zaměnit jej s jiným, a zajistit tak naplnění obecně platných procesních zásad totožnosti skutku, rei iudicatæ, ne bis in idem … Jedině zhodnocením všech prvků objektivní stránky v jejich souhrnu lze dosáhnout nezaměnitelného vymezení skutku, z něhož je dovozována přestupková odpovědnost"
+- *NSS* [41 A 8/2018 - 27](https://vyhledavac.nssoud.cz/DokumentDetail/Index/443920)
+  > „Místo spáchání přestupku, které je zásadní okolností a nutnou náležitostí rozhodnutí o přestupku podle ust. § 93 odst. 1 písm. a) zákona č. 250/2016 Sb. …"
+
 #### Výroková část — lex specialis k SŘ
 
 § 93 doplňuje obecné náležitosti výroku rozhodnutí podle § 68 SŘ o zvláštní náležitosti specifické pro přestupkové řízení. Tyto náležitosti jsou rozlišeny pro tři typy rozhodnutí: (1) rozhodnutí o vině a trestu (odst. 1), (2) rozhodnutí o vině a trestu právního nástupce (odst. 2) a (3) rozhodnutí o schválení dohody o narovnání (odst. 3).
@@ -1357,6 +1396,11 @@ V praxi § 93 vyžaduje, aby výrok rozhodnutí o vině obsahoval určitý popis
 > *Pokud nelze rozhodnutí vydat bezodkladně, vydá je správní orgán nejpozději do 60 dnů ode dne zahájení řízení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [54 A 65/2024 - 26](https://vyhledavac.nssoud.cz/DokumentDetail/Index/740611)
+  > „Lhůta pro vydání rozhodnutí činí podle § 94 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich … 60 dnů. Podle § 150 odst. 3 správního řádu se lhůta podáním odporu přerušuje"
 
 #### Speciální lhůta — lex specialis k SŘ
 
@@ -1563,6 +1607,11 @@ V praxi § 96 diferencuje okruh osob oprávněných k odvolání a jeho rozsah: 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [75 A 3/2024 - 68](https://vyhledavac.nssoud.cz/DokumentDetail/Index/743177)
+  > „Na řízení o odvolání v přestupkových věcech nedopadá koncentrace řízení, neboť podle § 97 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky, obviněný může v odvolání nebo v průběhu odvolacího řízení uvádět nové skutečnosti nebo důkazy"
+
 #### Novinové skutečnosti a důkazy — diferenciace
 
 Zákon výslovně přiznává **obviněnému** právo uvádět nové skutečnosti a důkazy neomezeně — v odvolání i v průběhu odvolacího řízení. Tím jsou zachovány principy plného přezkumu v odvolacím řízení. Ostatní osoby (poškozený, osoba přímo postižená s právy dle § 71, zákonný zástupce, orgán SPOD) mohou nové skutečnosti uvádět **pouze v reakci** na nové skutečnosti a důkazy předložené obviněným. Tím zákon brání zhoršení situace obviněného v důsledku nových důkazů podaných jinými stranami, aniž by obviněný měl právo se bránit.
@@ -1625,6 +1674,11 @@ V praxi § 97 zaručuje obviněnému plnou apelaci (možnost uvádět novoty), n
 > *(3) Pokud důvod, pro který odvolací správní orgán rozhodl ve prospěch některého z účastníků řízení, prospívá též jinému účastníkovi řízení, rozhodne odvolací správní orgán též v jeho prospěch.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 124/2016 - 50](https://vyhledavac.nssoud.cz/DokumentDetail/Index/643902)
+  > „Úpravu bez výjimek zvolil zákonodárce v řízení o přestupcích – v § 98 odst. 2 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, zavedl pro výroky o trestu, náhradě škody a vydání bezdůvodného obohacení plošný zákaz změny v neprospěch bez možnosti prolomení této zásady"
 
 #### Plný přezkum (odst. 1)
 
@@ -1760,6 +1814,11 @@ V praxi § 99 umožňuje po právní moci modifikovat trest či jeho výkon ve t
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [16 A 21/2023 - 55](https://vyhledavac.nssoud.cz/DokumentDetail/Index/724097)
+  > „Ustanovení § 100 a § 101 zákona č. 250/2016 Sb. jsou speciálními ustanoveními ve vztahu k § 97 správního řádu, avšak v tom smyslu, že rozšiřuje, a nikoli vylučuje, obecné důvody, pro něž lze přezkumné řízení zahájit"
+
 #### Dva důvody zvláštního přezkumného řízení
 
 § 100 zavádí speciální přezkumné řízení pro dvě situace, které nastávají ve vztahu přestupkového a trestního řízení:
@@ -1828,6 +1887,11 @@ V praxi § 100 slouží ke zrušení pravomocného přestupkového rozhodnutí, 
 > *(2) Podnět k provedení přezkumného řízení podaný po uplynutí lhůty uvedené v odstavci 1 vyřizuje správní orgán, který vydal příkaz na místě. Skutečnost, že přezkumné řízení nelze zahájit, sdělí správní orgán účastníkovi řízení jen v případě, že o vyrozumění požádal, a to ve lhůtě 30 dnů ode dne, kdy podnět obdržel.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [16 A 21/2023 - 55](https://vyhledavac.nssoud.cz/DokumentDetail/Index/724097)
+  > „K rozšíření [okruhu důvodů přezkumu] došlo mj. ustanovením § 101 odst. 1 zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, pro případy přezkumu příkazu na místě. Ustanovení § 100 a § 101 zákona č. 250/2016 Sb. jsou speciálními ustanoveními ve vztahu k § 97 správního řádu, avšak v tom smyslu, že rozšiřuje, a nikoli vylučuje, obecné důvody, pro něž lze přezkumné řízení zahájit"
 
 #### Zkrácená lhůta pro přezkum příkazu na místě
 
@@ -1942,12 +2006,4 @@ V praxi § 102 zajišťuje, že pravomocně uložená a neuhrazená pokuta zanik
 *Tato kapitola pokrývá § 77–102 zákona č. 250/2016 Sb. (Část třetí — Hlava VI až Hlava X). Obsahuje výklad všech zákonných paragrafů v pořadí daném textem zákona. Pro část čtvrtou (společná, přechodná a závěrečná ustanovení) viz [06-cast4-spolecna-prechodna-zaverecna.md](06-cast4-spolecna-prechodna-zaverecna.md). Pro příslušnost a obecný postup v řízení (§§ 55–76) viz [04-cast3-rizeni-prislusnost-postup.md](04-cast3-rizeni-prislusnost-postup.md).*
 
 ---
-
-
-
-
-
-
-
-
 
