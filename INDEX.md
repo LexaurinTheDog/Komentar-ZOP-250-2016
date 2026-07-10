@@ -137,3 +137,6 @@ Rozcestník podle paragrafů. Konsolidace k 1. 7. 2025. Úvod viz [00-uvod.md](0
 - **§ 113** — Zrušovací ustanovení
 - **§ 114** — Účinnost
 
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
