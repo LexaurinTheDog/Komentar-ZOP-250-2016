@@ -76,6 +76,58 @@ Přestupkovou agendu obce vykonává obecní úřad v přenesené působnosti; p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7be53c333f8115108d95 generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 103 — Výkon působnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> (1) Působnost stanovená orgánům obce a kraje podle tohoto zákona je výkonem přenesené působnosti.
+>
+> (2) Projednáváním přestupků nelze pověřit komisi rady obce.
+>
+> (3) Ústředním správním úřadem ve věci přestupků je ten ústřední správní úřad, do jehož působnosti náleží úsek státní správy, na němž došlo k porušení právní povinnosti zakládající odpovědnost za přestupek.
+>
+> (4) Ministerstvo vnitra je ústředním správním úřadem ve věci přestupků v případech, kdy nelze ústřední správní úřad určit podle odstavce 3 a k projednání přestupku jsou příslušné orgány obce nebo kraje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7be53c333f8115108d95 -->
+
 ### § 104 — Amnestie
 
 > **§ 104**
@@ -156,6 +208,62 @@ Amnestii ve věcech přestupků uděluje prezident; účinná je dnem vyhlášen
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=91ac48acbfd2e3323e10 generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 104 — Amnestie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> (1) Amnestii ve věcech přestupků uděluje prezident republiky.
+>
+> (2) Prezident republiky může
+>
+> - a) nařídit, aby se řízení o přestupku nezahajovalo nebo, bylo-li zahájeno, aby se v něm nepokračovalo,
+>
+> - b) odpustit nebo zmírnit uložený správní trest nebo jeho zbytek, nebo
+>
+> - c) nařídit vyřazení přestupku z evidence přestupků.
+>
+> (3) Amnestie nabývá účinnosti dnem vyhlášení ve Sbírce zákonů a mezinárodních smluv.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=91ac48acbfd2e3323e10 -->
+
 ### § 105 — Přenos příslušnosti na základě veřejnoprávní smlouvy
 
 > **§ 105**
@@ -219,6 +327,52 @@ Malá obec může přenést přestupkovou agendu jen na ORP nebo POÚ ve svém s
 **Typicky rozhodné důkazy / podklady:** text veřejnoprávní smlouvy, rozhodnutí krajského úřadu o souhlasu, doklad o správním obvodu ORP/POÚ, oznámení o zveřejnění smlouvy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4bae17cc872ac8de6d7f generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 105 — Přenos příslušnosti na základě veřejnoprávní smlouvy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> Obec může uzavřít veřejnoprávní smlouvu o přenosu příslušnosti k projednávání přestupků pouze s obcí s rozšířenou působností nebo s obcí s pověřeným obecním úřadem, v jejímž správním obvodu se obec nachází. Obec může veřejnoprávní smlouvou přenášet pouze veškerou příslušnost k projednávání přestupků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4bae17cc872ac8de6d7f -->
 
 ### § 106 — Evidence přestupků
 
@@ -290,6 +444,54 @@ Zapisuje se jen přestupek, u nějž to stanoví zvláštní zákon. U takového
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6db9c845088003eba926 generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 106 — Evidence přestupků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> (1) Stanoví-li tak zákon, pravomocná rozhodnutí o přestupku a pravomocná rozhodnutí o účasti na amnestii se zapisují do evidence přestupků.
+>
+> (2) Správní orgán příslušný k projednání přestupku zapisovaného do evidence přestupků si po zahájení řízení o takovém přestupku nebo před vydáním příkazu, je-li prvním úkonem v řízení, opatří opis z evidence přestupků týkající se obviněného nebo podezřelého z přestupku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6db9c845088003eba926 -->
+
 ### § 107 — Postup při zápisu do evidence přestupků
 
 > **§ 107**
@@ -359,6 +561,56 @@ Zápis do evidence provádí orgán rozhodující v posledním stupni přes apli
 **Typicky rozhodné důkazy / podklady:** příkaz/rozhodnutí s vyznačením právní moci, doklad o datu uložení pokuty na místě, záznam o předání údajů obecní policií, výpis ze zápisu v evidenci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c3a3536fa4f366a66720 generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 107 — Postup při zápisu do evidence přestupků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> (1) Údaje do evidence přestupků zapisuje správní orgán, který o přestupku rozhodoval v posledním stupni, prostřednictvím elektronického formuláře, jehož podobu zveřejní Ministerstvo spravedlnosti způsobem umožňujícím dálkový přístup, nebo prostřednictvím elektronické aplikace přístupné způsobem umožňujícím dálkový přístup, kterou spravuje Ministerstvo spravedlnosti.
+>
+> (2) V případě, kdy o uložení pokuty příkazem na místě rozhodovala obecní policie, provádí zápis obecní úřad; v hlavním městě Praze a ve statutárních městech provádí zápis městská policie. Obecní policie sdělí obecnímu úřadu údaje potřebné pro provedení zápisu do pěti pracovních dnů ode dne uložení pokuty příkazem na místě.
+>
+> (3) Zápis údajů do evidence přestupků se provede nejpozději do pěti pracovních dnů ode dne, kdy rozhodnutí nabylo právní moci, nebo ode dne, kdy příslušný správní orgán obdržel podklad pro provedení zápisu. Záznam se provede ke dni nabytí právní moci rozhodnutí nebo uložení pokuty příkazem na místě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c3a3536fa4f366a66720 -->
 
 ### § 108 — Námitkové řízení
 
@@ -436,6 +688,54 @@ Námitka dle § 108 je nástrojem k uvedení záznamu v evidenci do souladu se s
 **Typicky rozhodné důkazy / podklady:** opis z evidence, rozhodnutí o přestupku, rozhodnutí o amnestii, rozsudek správního soudu s doložkou právní moci, doklad o orgánu provádějícím zápis.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a595ff4df2f97d3be16a generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 108 — Námitkové řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> (1) Domnívá-li se osoba, že údaje vedené o ní v evidenci přestupků nejsou v souladu s provedeným řízením o přestupku, rozhodnutím o účasti na amnestii anebo s rozhodnutím soudu, který rozhodl o žalobě proti rozhodnutí o přestupku, může podat u správního orgánu, který zápis provedl, námitku.
+>
+> (2) Zjistí-li správní orgán, který zápis do evidence přestupků provedl, že námitka je oprávněná, údaje v evidenci přestupků bezodkladně opraví a osobu, která námitku podala, o tom vyrozumí; jinak rozhodne o neoprávněnosti námitky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a595ff4df2f97d3be16a -->
 
 ### § 111 — Požadavky na oprávněnou úřední osobu
 
@@ -529,6 +829,62 @@ Oprávněná úřední osoba bez magisterského právního vzdělání musí slo
 **Typicky rozhodné důkazy / podklady:** diplom o vzdělání, osvědčení o vykonání zkoušky, pověření úřední osoby, doklad o datu zahájení výkonu funkce, vnitřní předpis správního orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=44130edbaa1e251c0a52 generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 111 — Požadavky na oprávněnou úřední osobu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> (1) Úřední osoba oprávněná na základě vnitřního předpisu správního orgánu nebo pověření vedoucím správního orgánu k provádění úkonů správního orgánu v řízení o přestupku (dále jen „oprávněná úřední osoba“) musí prokázat odbornou způsobilost zkouškou složenou u Ministerstva vnitra, pokud nemá vysokoškolské vzdělání v magisterském studijním programu právo a právní věda, právo nebo bezpečnostně právní studia na vysoké škole v České republice; zajištěním zkoušky může Ministerstvo vnitra pověřit jím zřízenou státní příspěvkovou organizaci.
+>
+> (2) Oprávněná úřední osoba musí splnit požadavky podle odstavce 1 nejpozději do 18 měsíců ode dne, kdy začala provádět úkony správního orgánu v řízení o přestupku.
+>
+> (3) Požadavky podle odstavce 1 musí splňovat předseda rozkladové komise. Požadavky podle odstavce 1 nemusí splňovat osoba projednávající přestupek příkazem na místě, ministr nebo vedoucí jiného ústředního správního úřadu.
+>
+> (4) Odbornou způsobilost podle odstavce 1prokazuje oprávněná úřední osoba osvědčením o vykonání zkoušky vydaným Ministerstvem vnitra. Obsahem zkoušky je ověření znalostí organizace a činnosti veřejné správy a právních předpisů v oblasti odpovědnosti za přestupek.
+>
+> (5) Nevyhoví-li uchazeč u zkoušky, může zkoušku dvakrát opakovat. Opakovanou zkoušku je možné vykonat nejdříve za 60 dnů a nejpozději do 120 dnů ode dne konání zkoušky, při níž uchazeč nevyhověl.
+>
+> (6) Ministerstvo vnitra stanoví vyhláškou podrobnosti obsahu a provádění zkoušky a náležitosti osvědčení o vykonání zkoušky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=44130edbaa1e251c0a52 -->
 
 ### § 112 — Přechodná ustanovení
 
@@ -630,6 +986,66 @@ Za skutky před 1. 7. 2017 se odpovědnost a sankce posuzují podle dosavadních
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9812a4d0b004b4f342d7 generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 112 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> (1) Na přestupky a dosavadní jiné správní delikty, s výjimkou disciplinárních deliktů, se ode dne nabytí účinnosti tohoto zákona hledí jako na přestupky podle tohoto zákona. Odpovědnost za přestupky a dosavadní jiné správní delikty, s výjimkou disciplinárních deliktů, se posoudí podle dosavadních zákonů, pokud k jednání zakládajícímu odpovědnost došlo přede dnem nabytí účinnosti tohoto zákona; podle tohoto zákona se posoudí jen tehdy, jestliže to je pro pachatele příznivější.
+>
+> (3) Na určení druhu a výměry sankce za dosavadní přestupky a jiné správní delikty se ode dne nabytí účinnosti tohoto zákona použijí ustanovení o určení druhu a výměry správního trestu, je-li to pro pachatele výhodnější.
+>
+> (4) Zahájená řízení o přestupku a dosavadním jiném správním deliktu, s výjimkou řízení o disciplinárním deliktu, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, se dokončí podle dosavadních zákonů.
+>
+> (5) Bylo-li řízení o přestupku a řízení o dosavadním jiném správním deliktu, s výjimkou řízení o disciplinárním deliktu, pravomocně skončeno přede dnem nabytí účinnosti tohoto zákona, postupuje se při přezkumném řízení nebo novém řízení podle tohoto zákona.
+>
+> (6) Na blokové řízení upravené v dosavadních zákonech se ode dne nabytí účinnosti tohoto zákona hledí jako na příkazní řízení, při němž je příkaz vydáván na místě.
+>
+> (7) Na komise k projednávání přestupků zřízené podle dosavadní právní úpravy se ode dne nabytí účinnosti tohoto zákona hledí jako na komise zřízené podle tohoto zákona.
+>
+> (8) Nabytím účinnosti tohoto zákona není dotčena platnost veřejnoprávních smluv uzavřených přede dnem nabytí účinnosti tohoto zákona.
+>
+> (9) Do 31. prosince 2023 může činnost oprávněné úřední osoby vykonávat také osoba, která nesplňuje podmínky podle [[#§ 111|§ 111]]; předseda komise musí mít vysokoškolské vzdělání v magisterském studijním programu právo a právní věda, právo nebo bezpečnostně právní studia anebo zvláštní odbornou způsobilost. Po této době může činnost oprávněné úřední osoby vykonávat také úřední osoba, která nejméně 5 let projednávala přestupky a rozhodovala o nich.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 111
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9812a4d0b004b4f342d7 -->
+
 ### § 113 — Zrušovací ustanovení
 
 > **§ 113**
@@ -705,6 +1121,341 @@ Derogace zákona č. 200/1990 Sb. neznamená zánik práv a povinností vzniklý
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7e94efdad12d123f21ad generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 113 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[Zákon České národní rady č. 200/1990 Sb., o přestupcích|Zákon České národní rady č. 200/1990 Sb., o přestupcích]].
+>
+> - 2. [[Zákon č. 165/1990 Sb., o udělování amnestie ve věcech přestupků, jejichž projednávání patří do působnosti orgánů České a Slovenské Federativní Republiky|Zákon č. 165/1990 Sb., o udělování amnestie ve věcech přestupků, jejichž projednávání patří do působnosti orgánů České a Slovenské Federativní Republiky]].
+>
+> - 3. [[Čl. I|Čl. I]] [[zákona č. 67/1993 Sb., kterým se mění a doplňují zákon České národní rady č. 200/1990 Sb., o přestupcích, zákon České národní rady č. 283/1991 Sb., o Policii České republiky, a zákon České národní rady č. 553/1991 Sb., o obecní policii|zákona č. 67/1993 Sb., kterým se mění a doplňují zákon České národní rady č. 200/1990 Sb., o přestupcích, zákon České národní rady č. 283/1991 Sb., o Policii České republiky, a zákon České národní rady č. 553/1991 Sb., o obecní policii]].
+>
+> - 4. [[Čl. II|Čl. II]] [[zákona č. 290/1993 Sb., kterým se mění a doplňuje trestní zákon a zákon České národní rady č. 200/1990 Sb., o přestupcích|zákona č. 290/1993 Sb., kterým se mění a doplňuje trestní zákon a zákon České národní rady č. 200/1990 Sb., o přestupcích]].
+>
+> - 5. [[Čl. I|Čl. I]] [[zákona č. 82/1995 Sb., kterým se mění a doplňuje zákon České národní rady č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a mění zákon České národní rady č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, zákon České národní rady č. 553/1991 Sb., o obecní policii, ve znění pozdějších předpisů, a zákon č. 528/1990 Sb., devizový zákon, ve znění pozdějších předpisů|zákona č. 82/1995 Sb., kterým se mění a doplňuje zákon České národní rady č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a mění zákon České národní rady č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, zákon České národní rady č. 553/1991 Sb., o obecní policii, ve znění pozdějších předpisů, a zákon č. 528/1990 Sb., devizový zákon, ve znění pozdějších předpisů]].
+>
+> - 6. [[Část pátá|Část pátá]] [[zákona č. 237/1995 Sb., o hromadné správě autorských práv a práv autorskému právu příbuzných a o změně a doplnění některých zákonů|zákona č. 237/1995 Sb., o hromadné správě autorských práv a práv autorskému právu příbuzných a o změně a doplnění některých zákonů]].
+>
+> - 7. [[Zákon č. 279/1995 Sb., kterým se mění zákon České národní rady č. 367/1990 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, a zákon České národní rady č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|Zákon č. 279/1995 Sb., kterým se mění zákon České národní rady č. 367/1990 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, a zákon České národní rady č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 8. [[Část pátá|Část pátá]] [[zákona č. 289/1995 Sb|zákona č. 289/1995 Sb.]], o lesích a o změně a doplnění některých zákonů ([[lesní zákon|lesní zákon]]).
+>
+> - 9. [[Zákon č. 112/1998 Sb., kterým se mění a doplňuje zákon č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů, a zákon České národní rady č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|Zákon č. 112/1998 Sb., kterým se mění a doplňuje zákon č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů, a zákon České národní rady č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 10. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 168/1999 Sb|zákona č. 168/1999 Sb.]], o pojištění odpovědnosti za újmu způsobenou provozem vozidla a o změně některých souvisejících zákonů ([[zákon o pojištění odpovědnosti z provozu vozidla|zákon o pojištění odpovědnosti z provozu vozidla]]).
+>
+> - 11. [[Část šestá|Část šestá]] [[zákona č. 360/1999 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o sociálně-právní ochraně dětí|zákona č. 360/1999 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o sociálně-právní ochraně dětí]].
+>
+> - 12. [[Část druhá|Část druhá]] [[zákona č. 29/2000 Sb., o poštovních službách a o změně některých zákonů|zákona č. 29/2000 Sb., o poštovních službách a o změně některých zákonů]] (zákon [[o poštovních službách|o poštovních službách]]).
+>
+> - 13. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů|zákona č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů]] ([[autorský zákon|autorský zákon]]).
+>
+> - 14. [[Část sedmnáctá|Část sedmnáctá]] [[zákona č. 132/2000 Sb., o změně a zrušení některých zákonů souvisejících se zákonem o krajích, zákonem o obcích, zákonem o okresních úřadech a zákonem o hlavním městě Praze|zákona č. 132/2000 Sb., o změně a zrušení některých zákonů souvisejících se zákonem o krajích, zákonem o obcích, zákonem o okresních úřadech a zákonem o hlavním městě Praze]].
+>
+> - 15. [[Část pátá|Část pátá]] [[zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů|zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů]].
+>
+> - 16. [[Část pátá|Část pátá]] [[zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů|zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů]] (zákon [[o silničním provozu|o silničním provozu]]).
+>
+> - 17. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 370/2000 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění zákona č. 30/2000 Sb., zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů|zákona č. 370/2000 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění zákona č. 30/2000 Sb., zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů]].
+>
+> - 18. [[Část třetí|Část třetí]] [[zákona č. 164/2001 Sb., o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčebných lázních a lázeňských místech a o změně některých souvisejících zákonů|zákona č. 164/2001 Sb., o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčebných lázních a lázeňských místech a o změně některých souvisejících zákonů]] ([[lázeňský zákon|lázeňský zákon]]).
+>
+> - 19. [[Část třetí|Část třetí]] [[zákona č. 254/2001 Sb|zákona č. 254/2001 Sb.]], [[o vodách|o vodách]] a o změně některých zákonů ([[vodní zákon|vodní zákon]]).
+>
+> - 20. [[Část sedmá|Část sedmá]] [[zákona č. 265/2001 Sb|zákona č. 265/2001 Sb.]], kterým se mění [[zákon č. 141/1961 Sb., o trestním řízení soudním|zákon č. 141/1961 Sb., o trestním řízení soudním]] ([[trestní řád|trestní řád]]), ve znění pozdějších předpisů, [[zákon č. 140/1961 Sb., trestní zákon|zákon č. 140/1961 Sb., trestní zákon]], ve znění pozdějších předpisů, a některé další zákony.
+>
+> - 21. [[Část druhá|Část druhá]] [[zákona č. 273/2001 Sb., o právech příslušníků národnostních menšin a o změně některých zákonů|zákona č. 273/2001 Sb., o právech příslušníků národnostních menšin a o změně některých zákonů]].
+>
+> - 22. [[Část třetí|Část třetí]] [[zákona č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů|zákona č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů]] (zákon [[o vodovodech a kanalizacích|o vodovodech a kanalizacích]]).
+>
+> - 23. [[Část druhá|Část druhá]] [[zákona č. 312/2001 Sb., o státních hranicích a o změně zákona č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů,|zákona č. 312/2001 Sb., o státních hranicích a o změně zákona č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů,]] (zákon [[o státních hranicích|o státních hranicích]]).
+>
+> - 24. [[Část pátá|Část pátá]] [[zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů|zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů]] (zákon [[o soudech a soudcích|o soudech a soudcích]]).
+>
+> - 25. [[Část první|Část první]] [[zákona č. 62/2002 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 62/2002 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 26. [[Část první|Část první]] [[zákona č. 78/2002 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů, a zákon č. 107/1999 Sb., o jednacím řádu Senátu|zákona č. 78/2002 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů, a zákon č. 107/1999 Sb., o jednacím řádu Senátu]].
+>
+> - 27. [[Část třetí|Část třetí]] [[zákona č. 216/2002 Sb|zákona č. 216/2002 Sb.]], o ochraně státních hranic České republiky a o změně některých zákonů (zákon [[o ochraně státních hranic|o ochraně státních hranic]]).
+>
+> - 28. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 259/2002 Sb., kterým se mění zákon č. 84/1990 Sb., o právu shromažďovacím, ve znění zákona č. 175/1990 Sb., a některé další zákony|zákona č. 259/2002 Sb., kterým se mění zákon č. 84/1990 Sb., o právu shromažďovacím, ve znění zákona č. 175/1990 Sb., a některé další zákony]].
+>
+> - 29. [[Část třetí|Část třetí]] [[zákona č. 311/2002 Sb., kterým se mění zákon č. 553/1991 Sb., o obecní policii, ve znění pozdějších předpisů, a o změně některých dalších zákonů|zákona č. 311/2002 Sb., kterým se mění zákon č. 553/1991 Sb., o obecní policii, ve znění pozdějších předpisů, a o změně některých dalších zákonů]].
+>
+> - 30. [[Část čtyřicátá osmá|Část čtyřicátá osmá]] [[zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů|zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů]].
+>
+> - 31. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 218/2003 Sb., o odpovědnosti mládeže za protiprávní činy a o soudnictví ve věcech mládeže a o změně některých zákonů|zákona č. 218/2003 Sb., o odpovědnosti mládeže za protiprávní činy a o soudnictví ve věcech mládeže a o změně některých zákonů]] (zákon [[o soudnictví ve věcech mládeže|o soudnictví ve věcech mládeže]]).
+>
+> - 32. [[Část dvanáctá|Část dvanáctá]] [[zákona č. 274/2003 Sb., kterým se mění některé zákony na úseku ochrany veřejného zdraví|zákona č. 274/2003 Sb., kterým se mění některé zákony na úseku ochrany veřejného zdraví]].
+>
+> - 33. [[Část pátá|Část pátá]] [[zákona č. 362/2003 Sb., o změně zákonů souvisejících s přijetím zákona o služebním poměru příslušníků bezpečnostních sborů|zákona č. 362/2003 Sb., o změně zákonů souvisejících s přijetím zákona o služebním poměru příslušníků bezpečnostních sborů]].
+>
+> - 34. [[Část třetí|Část třetí]] [[zákona č. 47/2004 Sb., kterým se mění zákon č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdějších předpisů, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů|zákona č. 47/2004 Sb., kterým se mění zákon č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdějších předpisů, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů]].
+>
+> - 35. [[Část devátá|Část devátá]] [[zákona č. 436/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o zaměstnanosti|zákona č. 436/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o zaměstnanosti]].
+>
+> - 36. [[Část patnáctá|Část patnáctá]] [[zákona č. 501/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím správního řádu|zákona č. 501/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím správního řádu]].
+>
+> - 37. [[Část třetí|Část třetí]] [[zákona č. 559/2004 Sb., kterým se mění zákon č. 328/1999 Sb., o občanských průkazech, ve znění pozdějších předpisů, zákon č. 329/1999 Sb., o cestovních dokladech a o změně zákona č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, (zákon o cestovních dokladech), ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů|zákona č. 559/2004 Sb., kterým se mění zákon č. 328/1999 Sb., o občanských průkazech, ve znění pozdějších předpisů, zákon č. 329/1999 Sb., o cestovních dokladech a o změně zákona č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, (zákon o cestovních dokladech), ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů]].
+>
+> - 38. [[Část první|Část první]] [[zákona č. 586/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o branné povinnosti a jejím zajišťování (branný zákon)|zákona č. 586/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o branné povinnosti a jejím zajišťování (branný zákon)]].
+>
+> - 39. [[Část šestá|Část šestá]] [[zákona č. 95/2005 Sb., kterým se mění zákon č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění pozdějších předpisů, a některé další zákony|zákona č. 95/2005 Sb., kterým se mění zákon č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 40. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 379/2005 Sb., o opatřeních k ochraně před škodami působenými tabákovými výrobky, alkoholem a jinými návykovými látkami a o změně souvisejících zákonů|zákona č. 379/2005 Sb., o opatřeních k ochraně před škodami působenými tabákovými výrobky, alkoholem a jinými návykovými látkami a o změně souvisejících zákonů]].
+>
+> - 41. [[Část třetí|Část třetí]] [[zákona č. 392/2005 Sb., kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a některé další zákony|zákona č. 392/2005 Sb., kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 42. [[Část druhá|Část druhá]] [[zákona č. 411/2005 Sb., kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 247/2000 Sb., o získávání a zdokonalování odborné způsobilosti k řízení motorových vozidel a o změnách některých zákonů, ve znění pozdějších předpisů, a některé další zákony|zákona č. 411/2005 Sb., kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 247/2000 Sb., o získávání a zdokonalování odborné způsobilosti k řízení motorových vozidel a o změnách některých zákonů, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 43. [[Část třináctá|Část třináctá]] [[zákona č. 57/2006 Sb., o změně zákonů v souvislosti se sjednocením dohledu nad finančním trhem|zákona č. 57/2006 Sb., o změně zákonů v souvislosti se sjednocením dohledu nad finančním trhem]].
+>
+> - 44. [[Část třetí|Část třetí]] [[zákona č. 76/2006 Sb., kterým se mění zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů, a další související zákony|zákona č. 76/2006 Sb., kterým se mění zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 45. [[Část třetí|Část třetí]] [[zákona č. 80/2006 Sb., kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, a další související zákony|zákona č. 80/2006 Sb., kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 46. [[Část devátá|Část devátá]] [[zákona č. 115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů|zákona č. 115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů]].
+>
+> - 47. [[Část pátá|Část pátá]] [[zákona č. 134/2006 Sb., kterým se mění zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů, zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 134/2006 Sb., kterým se mění zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů, zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 48. [[Část druhá|Část druhá]] [[zákona č. 181/2006 Sb., kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 181/2006 Sb., kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 49. [[Část druhá|Část druhá]] [[zákona č. 213/2006 Sb., kterým se mění zákon č. 352/2001 Sb., o užívání státních symbolů České republiky a o změně některých zákonů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 213/2006 Sb., kterým se mění zákon č. 352/2001 Sb., o užívání státních symbolů České republiky a o změně některých zákonů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 50. [[Část druhá|Část druhá]] [[zákona č. 216/2006 Sb., kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů, a některé další zákony|zákona č. 216/2006 Sb., kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 51. [[Část pátá|Část pátá]] [[zákona č. 225/2006 Sb., kterým se mění zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, a některé další zákony|zákona č. 225/2006 Sb., kterým se mění zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 52. [[Část pátá|Část pátá]] [[zákona č. 226/2006 Sb., kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., ve znění pozdějších předpisů, zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 226/2006 Sb., kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., ve znění pozdějších předpisů, zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 53. [[Část druhá|Část druhá]] [[zákona č. 215/2007 Sb., kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 215/2007 Sb., kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 54. [[Zákon č. 344/2007 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|Zákon č. 344/2007 Sb., kterým se mění zákon č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 55. [[Část druhá|Část druhá]] [[zákona č. 376/2007 Sb., kterým se mění zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 376/2007 Sb., kterým se mění zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 56. [[Část osmnáctá|Část osmnáctá]] [[zákona č. 129/2008 Sb., o výkonu zabezpečovací detence a o změně některých souvisejících zákonů|zákona č. 129/2008 Sb., o výkonu zabezpečovací detence a o změně některých souvisejících zákonů]].
+>
+> - 57. [[Část druhá|Část druhá]] [[zákona č. 274/2008 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Policii České republiky|zákona č. 274/2008 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Policii České republiky]].
+>
+> - 58. [[Část druhá|Část druhá]] [[zákona č. 309/2008 Sb., kterým se mění zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů, a některé další zákony|zákona č. 309/2008 Sb., kterým se mění zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 59. [[Část šestá|Část šestá]] [[zákona č. 314/2008 Sb., kterým se mění zákon č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, zákon č. 150/2002 Sb., soudní řád správní, ve znění pozdějších předpisů, zákon č. 7/2002 Sb., o řízení ve věcech soudců a státních zástupců, ve znění pozdějších předpisů, zákon č. 349/1999 Sb., o Veřejném ochránci práv, ve znění pozdějších předpisů, zákon č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů|zákona č. 314/2008 Sb., kterým se mění zákon č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, zákon č. 150/2002 Sb., soudní řád správní, ve znění pozdějších předpisů, zákon č. 7/2002 Sb., o řízení ve věcech soudců a státních zástupců, ve znění pozdějších předpisů, zákon č. 349/1999 Sb., o Veřejném ochránci práv, ve znění pozdějších předpisů, zákon č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů]].
+>
+> - 60. [[Část druhá|Část druhá]] [[zákona č. 484/2008 Sb., kterým se mění zákon č. 119/2002 Sb., o střelných zbraních a střelivu a o změně zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, (zákon o zbraních), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 484/2008 Sb., kterým se mění zákon č. 119/2002 Sb., o střelných zbraních a střelivu a o změně zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, (zákon o zbraních), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 61. [[Část pátá|Část pátá]] [[zákona č. 41/2009 Sb., o změně některých zákonů v souvislosti s přijetím trestního zákoníku|zákona č. 41/2009 Sb., o změně některých zákonů v souvislosti s přijetím trestního zákoníku]].
+>
+> - 62. [[Část druhá|Část druhá]] [[zákona č. 52/2009 Sb., kterým se mění zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů, a některé další zákony|zákona č. 52/2009 Sb., kterým se mění zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 63. [[Část pátá|Část pátá]] [[zákona č. 306/2009 Sb., kterým se mění zákon č. 40/2009 Sb., trestní zákoník, a některé další zákony|zákona č. 306/2009 Sb., kterým se mění zákon č. 40/2009 Sb., trestní zákoník, a některé další zákony]].
+>
+> - 64. [[Část třetí|Část třetí]] [[zákona č. 346/2009 Sb., kterým se mění zákon č. 100/2004 Sb., o ochraně druhů volně žijících živočichů a planě rostoucích rostlin regulováním obchodu s nimi a dalších opatřeních k ochraně těchto druhů a o změně některých zákonů (zákon o obchodování s ohroženými druhy), ve znění pozdějších předpisů, zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 388/1991 Sb., o Státním fondu životního prostředí České republiky, ve znění pozdějších předpisů|zákona č. 346/2009 Sb., kterým se mění zákon č. 100/2004 Sb., o ochraně druhů volně žijících živočichů a planě rostoucích rostlin regulováním obchodu s nimi a dalších opatřeních k ochraně těchto druhů a o změně některých zákonů (zákon o obchodování s ohroženými druhy), ve znění pozdějších předpisů, zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, a zákon č. 388/1991 Sb., o Státním fondu životního prostředí České republiky, ve znění pozdějších předpisů]].
+>
+> - 65. [[Část druhá|Část druhá]] [[zákona č. 150/2010 Sb., kterým se mění zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 150/2010 Sb., kterým se mění zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 66. [[Část šestá|Část šestá]] [[zákona č. 199/2010 Sb., kterým se mění zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, a některé další zákony|zákona č. 199/2010 Sb., kterým se mění zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 67. [[Část druhá|Část druhá]] [[zákona č. 133/2011 Sb., kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a některé další zákony|zákona č. 133/2011 Sb., kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 68. [[Část desátá|Část desátá]] [[zákona č. 366/2011 Sb., kterým se mění zákon č. 111/2006 Sb., o pomoci v hmotné nouzi, ve znění pozdějších předpisů, zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, a další související zákony|zákona č. 366/2011 Sb., kterým se mění zákon č. 111/2006 Sb., o pomoci v hmotné nouzi, ve znění pozdějších předpisů, zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 69. [[Část třetí|Část třetí]] [[zákona č. 142/2012 Sb., o změně některých zákonů v souvislosti se zavedením základních registrů|zákona č. 142/2012 Sb., o změně některých zákonů v souvislosti se zavedením základních registrů]].
+>
+> - 70. [[Část druhá|Část druhá]] [[zákona č. 237/2012 Sb., kterým se mění zákon č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů|zákona č. 237/2012 Sb., kterým se mění zákon č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů]].
+>
+> - 71. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 390/2012 Sb., kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, a některé další zákony|zákona č. 390/2012 Sb., kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 72. [[Část první|Část první]] [[zákona č. 494/2012 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 40/2009 Sb., trestní zákoník, ve znění zákona č. 306/2009 Sb., a některé další zákony|zákona č. 494/2012 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 40/2009 Sb., trestní zákoník, ve znění zákona č. 306/2009 Sb., a některé další zákony]].
+>
+> - 73. [[Část druhá|Část druhá]] [[zákona č. 102/2013 Sb., kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony|zákona č. 102/2013 Sb., kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 74. [[Část druhá|Část druhá]] [[zákona č. 300/2013 Sb., o Vojenské policii a o změně některých zákonů|zákona č. 300/2013 Sb., o Vojenské policii a o změně některých zákonů]] (zákon [[o Vojenské policii|o Vojenské policii]]).
+>
+> - 75. [[Část osmá|Část osmá]] [[zákona č. 306/2013 Sb., o zrušení karty sociálních systémů|zákona č. 306/2013 Sb., o zrušení karty sociálních systémů]].
+>
+> - 76. [[Část druhá|Část druhá]] [[zákona č. 308/2013 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o povinném značení lihu|zákona č. 308/2013 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o povinném značení lihu]].
+>
+> - 77. [[Část první|Část první]] [[zákona č. 204/2015 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a některé další zákony|zákona č. 204/2015 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 78. [[Vyhláška č. 231/1996 Sb., kterou se stanoví paušální částka nákladů řízení o přestupcích|Vyhláška č. 231/1996 Sb., kterou se stanoví paušální částka nákladů řízení o přestupcích]].
+>
+> - 79. [[Vyhláška č. 340/2003 Sb., kterou se mění vyhláška č. 231/1996 Sb., kterou se stanoví paušální částka nákladů řízení o přestupcích|Vyhláška č. 340/2003 Sb., kterou se mění vyhláška č. 231/1996 Sb., kterou se stanoví paušální částka nákladů řízení o přestupcích]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 165/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 67/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 290/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 82/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 528/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 237/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 279/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 289/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 112/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 140/1961 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 168/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 360/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 29/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 121/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 132/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 258/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 361/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 370/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 513/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 358/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 15/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 30/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 200/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 99/1963 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 328/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 164/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 254/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 265/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 141/1961 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 273/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 274/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 312/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 6/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 62/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 78/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 90/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 107/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 216/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 259/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 84/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 175/1990 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 311/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 553/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 320/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 218/2003 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 274/2003 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 362/2003 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 47/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 586/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 40/1964 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 436/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 501/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 559/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 328/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 329/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 283/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 326/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 586/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 95/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 379/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 392/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 411/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 247/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 57/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 76/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 80/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 13/1997 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 115/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 134/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 359/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 94/1963 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 117/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 181/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 266/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 213/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 352/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 216/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 225/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 49/1997 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 455/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 226/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 111/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 56/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 307/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 634/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 215/2007 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 344/2007 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 376/2007 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 61/1988 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 129/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 274/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 309/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 114/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 314/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 150/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 7/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 349/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 283/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 85/1996 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 484/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 119/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 156/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 288/1995 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 13/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 368/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 41/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 52/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 306/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 40/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 346/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 100/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 388/1991 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 150/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 199/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 218/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 133/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 366/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 111/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 108/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 142/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 237/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 99/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 390/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 494/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 102/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 300/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 306/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 308/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 204/2015 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 269/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 231/1996 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 340/2003 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7e94efdad12d123f21ad -->
+
 ### § 114 — Účinnost
 
 > **§ 114**
@@ -772,6 +1523,52 @@ Zákon č. 250/2016 Sb. je účinný od 1. 7. 2017; tímto dnem se řídí výkl
 **Typicky rozhodné důkazy / podklady:** spis s vyznačenými daty skutku, zahájení řízení a právní moci, znění zákona č. 250/2016 Sb. a č. 251/2016 Sb., dosavadní úprava pro test příznivosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f5f397ee35003b5601bb generator=2026-07-17.4 source_sha256=ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca -->
+#### Revizní doplnění k § 114 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 7. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2016/250-2016 Zákon o odpovědnosti za přestupky a řízení o nich.md`; identifikátor verze: `SB-2016-00250_2025-07-01`; SHA-256: `ce8c4ab3c6c3ff4009a0e335f09ebccd285993a8844784c1fe901e2393d254ca`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. července 2017.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f5f397ee35003b5601bb -->
 
 ## Synoptický přehled — Část čtvrtá (§§ 103–114)
 
